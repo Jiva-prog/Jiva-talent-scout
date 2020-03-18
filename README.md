@@ -5,7 +5,8 @@ MOBILE PRIVACY POLICY
 PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
 This privacy policy governs your use of the software application Jiva talent scout (“Application”)
 for mobile devices that was created by Tlalifisamahlo codes. The Application is This app allows a
-user to upload content showcasing their talent in a form of images,videos and audio
+user to upload content showcasing their talent in a form of images,videos and audio and uses camera to capture videos
+and location services will be required to locate the user.
 What information does the Application obtain and how is it used?
 User Provided Information
 The Application obtains the information you provide when you download and register the
